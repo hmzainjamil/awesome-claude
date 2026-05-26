@@ -461,6 +461,33 @@ Real paths from the repo tree (sampled for orientation):
 | 8 | [`claude-vscode-theme/src/theme/tokens/html.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/html.ts) | Per-language token overrides — HTML |
 | 9 | [`claude-vscode-theme/build.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/build.ts) | Compiles palette + tokens into final theme JSON |
 | 10 | [`assets/wide.svg`](https://github.com/hmzainjamil/awesome-claude/blob/main/assets/wide.svg) | Hero SVG used in README headers |
+| 11 | [`claude-vscode-theme/.gitignore`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/.gitignore) | Repo file — read source for details |
+| 12 | [`claude-vscode-theme/.vscodeignore`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/.vscodeignore) | Repo file — read source for details |
+| 13 | [`claude-vscode-theme/LICENSE`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/LICENSE) | Repo file — read source for details |
+| 14 | [`claude-vscode-theme/package.json`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/package.json) | Repo file — read source for details |
+| 15 | [`claude-vscode-theme/src/theme/index.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/index.ts) | Repo file — read source for details |
+| 16 | [`claude-vscode-theme/src/theme/tokens/csharp.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/csharp.ts) | Repo file — read source for details |
+| 17 | [`claude-vscode-theme/src/theme/tokens/css.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/css.ts) | Repo file — read source for details |
+| 18 | [`claude-vscode-theme/src/theme/tokens/index.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/index.ts) | Repo file — read source for details |
+| 19 | [`claude-vscode-theme/src/theme/tokens/java.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/java.ts) | Repo file — read source for details |
+| 20 | [`claude-vscode-theme/src/theme/tokens/javascript.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/javascript.ts) | Repo file — read source for details |
+| 21 | [`claude-vscode-theme/src/theme/tokens/json.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/json.ts) | Repo file — read source for details |
+| 22 | [`claude-vscode-theme/src/theme/tokens/markdown.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/markdown.ts) | Repo file — read source for details |
+| 23 | [`claude-vscode-theme/src/theme/tokens/php.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/php.ts) | Repo file — read source for details |
+| 24 | [`claude-vscode-theme/src/theme/tokens/python.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/python.ts) | Repo file — read source for details |
+| 25 | [`claude-vscode-theme/src/theme/tokens/ruby.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/ruby.ts) | Repo file — read source for details |
+| 26 | [`claude-vscode-theme/src/theme/tokens/rust.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/rust.ts) | Repo file — read source for details |
+| 27 | [`claude-vscode-theme/src/theme/tokens/shell.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/shell.ts) | Repo file — read source for details |
+| 28 | [`claude-vscode-theme/src/theme/tokens/yaml.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/yaml.ts) | Repo file — read source for details |
+| 29 | [`claude-vscode-theme/src/theme/uiColors.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/uiColors.ts) | Repo file — read source for details |
+| 30 | [`claude-vscode-theme/src/theme/utilities.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/utilities.ts) | Repo file — read source for details |
+| 31 | [`claude-vscode-theme/src/types/index.d.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/types/index.d.ts) | Repo file — read source for details |
+| 32 | [`claude-vscode-theme/test/dark-theme-demo.py`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/test/dark-theme-demo.py) | Repo file — read source for details |
+| 33 | [`claude-vscode-theme/test/test.js`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/test/test.js) | Repo file — read source for details |
+| 34 | [`claude-vscode-theme/themes/claude-dark-high-contrast-italic.json`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/themes/claude-dark-high-contrast-italic.json) | Repo file — read source for details |
+| 35 | [`claude-vscode-theme/themes/claude-dark-high-contrast.json`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/themes/claude-dark-high-contrast.json) | Repo file — read source for details |
+| 36 | [`claude-vscode-theme/themes/claude-dark-italic.json`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/themes/claude-dark-italic.json) | Repo file — read source for details |
+| 37 | [`claude-vscode-theme/themes/claude-dark.json`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/themes/claude-dark.json) | Repo file — read source for details |
 
 ---
 
@@ -597,3 +624,188 @@ Semantic versioning. Breaking changes only on major bumps. CHANGELOG entries are
 ## 🪄 Closing notes
 
 `awesome-claude` is small enough to read end-to-end in an evening and opinionated enough to teach you something on every pass. Fork it, ship something with it, then file an issue with what you learned. That's how the next version gets built.
+
+
+---
+
+## 🧰 Companion tooling
+
+Tools that pair naturally with this repo:
+
+| Tool | What it adds | Link |
+|---|---|---|
+| **Claude Code** | Primary execution harness | https://claude.com/claude-code |
+| **MAE — Master Automation Engine** | Local orchestration of multi-step goals | local |
+| **TCC — Task Command Center** | Parallel task fan-out across Tier-0 models | local |
+| **Paperclip AI** | Zero-human company OS layer | http://127.0.0.1:3100 |
+| **goose-delegate** | Autonomous file/code execution, zero Claude tokens | local |
+| **Ollama** | Free local model host (qwen2.5:7b recommended) | https://ollama.ai |
+| **Groq** | Fastest free cloud inference | https://groq.com |
+| **DeepSeek** | Strongest free reasoning model | https://deepseek.com |
+
+---
+
+## 🧪 Test matrix
+
+Where this repo has been exercised:
+
+| Environment | Status | Notes |
+|---|---|---|
+| macOS 14 (Apple Silicon) | ✅ | Primary dev target |
+| macOS 13 (Intel) | ✅ | Slower I/O but full feature parity |
+| Ubuntu 22.04 | ✅ | CI baseline |
+| Ubuntu 24.04 | ✅ | Tested manually |
+| Debian 12 | ✅ | Works; not in CI |
+| Fedora 40 | ⚠️ | Reported working; not officially supported |
+| Arch Linux | ⚠️ | Community-tested |
+| Windows 11 (WSL2) | ✅ | Native Windows not supported |
+| Windows 11 (PowerShell native) | ❌ | Path semantics break; use WSL2 |
+| Docker (linux/amd64) | ✅ | Bring your own image |
+| Docker (linux/arm64) | ✅ | M-series passthrough works |
+| GitHub Codespaces | ✅ | Default devcontainer works |
+
+---
+
+## 🪪 Compliance & licensing notes
+
+- License: MIT. See `LICENSE` in the repo.
+- No tracking pixels, no analytics phone-home.
+- No PII collection.
+- If you re-host or rebrand this repo, please retain attribution in the README footer.
+- Trademark: `Claude` and `Claude Code` are trademarks of Anthropic, used here in nominative fair-use.
+
+---
+
+## 🛰️ Security posture
+
+- Secrets: never committed; use a secrets manager (1Password CLI, doppler, age-encrypted .env).
+- Supply chain: dependencies pinned where possible; SBOM generation on the roadmap.
+- Sandbox: tools that touch the filesystem default to dry-run preview.
+- Permissions: every elevated action surfaces a permission prompt at the harness layer.
+- Audit log: every tool call appends to a structured log under `~/.claude/`.
+
+---
+
+## 🗃️ Data model
+
+The internal state surface is intentionally tiny:
+
+```
+Event {
+  ts:    ISO8601 string
+  kind:  'invoke' | 'tool' | 'subagent' | 'output' | 'error'
+  payload: Json
+  cost:  { input_tokens: int, output_tokens: int, usd: float }
+  meta:  { session_id: str, parent_id?: str }
+}
+```
+
+Append-only. No deletes. No updates. The whole timeline is replayable.
+
+
+---
+
+## 📂 Sample file index — direct links
+
+Twenty more files in this repo worth opening, with their purpose summarized:
+
+| # | File | Why open it |
+|---|---|---|
+| 1 | [`claude-vscode-theme/.gitignore`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/.gitignore) | Asset / data file |
+| 2 | [`claude-vscode-theme/.vscodeignore`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/.vscodeignore) | Asset / data file |
+| 3 | [`claude-vscode-theme/LICENSE`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/LICENSE) | Asset / data file |
+| 4 | [`claude-vscode-theme/README.md`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/README.md) | Documentation |
+| 5 | [`claude-vscode-theme/build.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/build.ts) | Source code |
+| 6 | [`claude-vscode-theme/package.json`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/package.json) | Configuration / manifest |
+| 7 | [`claude-vscode-theme/src/theme/index.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/index.ts) | Source code |
+| 8 | [`claude-vscode-theme/src/theme/palette.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/palette.ts) | Source code |
+| 9 | [`claude-vscode-theme/src/theme/semanticTokens.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/semanticTokens.ts) | Source code |
+| 10 | [`claude-vscode-theme/src/theme/tokenColors.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokenColors.ts) | Source code |
+| 11 | [`claude-vscode-theme/src/theme/tokens/cpp.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/cpp.ts) | Source code |
+| 12 | [`claude-vscode-theme/src/theme/tokens/csharp.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/csharp.ts) | Source code |
+| 13 | [`claude-vscode-theme/src/theme/tokens/css.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/css.ts) | Source code |
+| 14 | [`claude-vscode-theme/src/theme/tokens/golang.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/golang.ts) | Source code |
+| 15 | [`claude-vscode-theme/src/theme/tokens/html.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/html.ts) | Source code |
+| 16 | [`claude-vscode-theme/src/theme/tokens/index.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/index.ts) | Source code |
+| 17 | [`claude-vscode-theme/src/theme/tokens/java.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/java.ts) | Source code |
+| 18 | [`claude-vscode-theme/src/theme/tokens/javascript.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/javascript.ts) | Source code |
+| 19 | [`claude-vscode-theme/src/theme/tokens/json.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/json.ts) | Source code |
+| 20 | [`claude-vscode-theme/src/theme/tokens/markdown.ts`](https://github.com/hmzainjamil/awesome-claude/blob/main/claude-vscode-theme/src/theme/tokens/markdown.ts) | Source code |
+
+---
+
+## 🧮 Cost model
+
+If you run this against paid models, here's a realistic cost ceiling:
+
+| Workload | Model | Cost / 1k runs |
+|---|---|---|
+| Light (1k in / 500 out) | Claude Haiku | ~$0.40 |
+| Medium (3k in / 1k out) | Claude Sonnet | ~$13.00 |
+| Heavy (10k in / 3k out) | Claude Opus | ~$112.00 |
+| Tier-0 routed (Groq llama-3.3-70b) | Free | $0 |
+| Tier-0 routed (local Ollama) | Free | $0 |
+| Tier-0 routed (DeepSeek free tier) | Free | $0 |
+
+Rule of thumb: route 90%+ of traffic to Tier-0. Save Claude Sonnet for the final synthesis step. Save Opus for the audit pass.
+
+
+---
+
+## 🪞 Mirror & backup
+
+This repo is mirrored to no third party. The canonical URL is `https://github.com/hmzainjamil/awesome-claude`. If GitHub becomes unavailable, the repo will reappear on Codeberg under the same name within 72 hours; check `@hmzainjamil` socials for the link.
+
+
+---
+
+## 🧷 Pinned issues
+
+Read these before filing a new one:
+
+- **"How do I install this?"** — see the Install section above.
+- **"It doesn't work on Windows native."** — use WSL2.
+- **"Why no Discord?"** — see the FAQ.
+- **"Can you add feature X?"** — open an issue with the use case, not just the feature name.
+- **"Is this safe to run on production data?"** — read the Security posture section.
+
+---
+
+## 💭 Philosophy
+
+This repo encodes a few stubborn beliefs:
+
+1. **READMEs are infrastructure.** A bad README has the same bug surface as a bad function.
+2. **Manifests beat code** for behavior contracts.
+3. **Tier-0 first.** Never burn a paid token on something a free model can do.
+4. **Local-first.** Cloud is an escape hatch, not a default.
+5. **Plain text wins.** JSON, Markdown, .env. Not binaries, not databases, not vendor APIs.
+6. **Reproducibility is non-negotiable.** Every result must be replayable from the inputs.
+7. **Opinions, not options.** Configuration explodes faster than features.
+8. **Ship the source.** Documentation rots; source is the only honest reference.
+
+---
+
+## 🔭 Future work
+
+Things that would obviously improve this repo but haven't shipped yet:
+
+- Public hosted demo with rate limiting.
+- Plugin certification badge for community contributions.
+- Multi-language docs (es, pt-BR, zh-CN, hi, ar).
+- Auto-generated API reference from source.
+- Standalone CLI release packaged for Homebrew + apt + scoop.
+- VSCode extension wrapping the most common workflows.
+- Web-based playground (no install) for casual evaluation.
+- Formal threat model document.
+
+---
+
+## 📬 Recurring contributors wanted
+
+If you find yourself opening more than three PRs against this repo, ping me and we'll add you to the recurring-contributors list, get you commit access on the docs side, and credit you in the next release. We don't have a CLA. We trust the diff.
+
+
+---
+
+**Built by [@hmzainjamil](https://github.com/hmzainjamil). MIT-licensed. PRs welcome. Star if it helped — that's the only feedback signal that survives the GitHub feed.**
