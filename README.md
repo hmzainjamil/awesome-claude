@@ -1,5 +1,9 @@
 # awesome-claude
 
+<!-- HMZ PORTFOLIO STANDARD -->
+> Portfolio status: active · Visibility: public · Source of truth: current repository source.
+<!-- END HMZ PORTFOLIO STANDARD -->
+
 > **The awesome list for Claude — opinionated, current, no link rot** — hand-curated index of Claude prompts, skills, plugins, tools, integrations, themes, and production resources
 
 <p align="center">
