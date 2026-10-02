@@ -2,7 +2,7 @@
 
 # Claude VSCode Theme
 
-Thoughtful dark theme collection inspired by Claude AI. Features both classic and **italic** variants with carefully balanced contrast and warm syntax colors to reduce eye strain during long coding sessions.
+Dark VS Code theme collection inspired by Claude AI. Includes classic and italic styles, warm syntax colors, and high-contrast variants.
 
 Part of [awesomeclaude.ai](https://awesomeclaude.ai)
 
@@ -29,23 +29,23 @@ Part of [awesomeclaude.ai](https://awesomeclaude.ai)
 <tr>
 <td width="50%">
 
-### 🎯 **Perfect Readability**
-- WCAG AA+ compliant contrast ratios
-- Optimized for long coding sessions
-- Reduces eye strain with warm dark colors
+### 🎯 **Color Variants**
+- Dark color palettes with high-contrast variants
+- Warm syntax colors
+- Classic and italic styles
 
 ### 🎨 **Beautiful Syntax**
 - Hand-picked colors for each token type
-- Supports 16+ programming languages
+- Includes language-specific token overrides
 - Advanced semantic highlighting
 
 </td>
 <td width="50%">
 
-### ⚡ **Zero Fatigue**
-- Carefully balanced brightness levels
-- Smooth color transitions
-- Consistent visual hierarchy
+### ⚡ **Theme Styling**
+- Four theme variants
+- Distinct background and syntax colors
+- Consistent token styling
 
 ### 🛠️ **Multiple Variants**
 - Classic & italic variations
@@ -62,8 +62,8 @@ Part of [awesomeclaude.ai](https://awesomeclaude.ai)
 |-------|-------|-------------|----------|
 | **Claude Dark** | Classic | Elegant dark theme with warm tones | General development, long coding sessions |
 | **Claude Dark Italic** | ✨ Italic | Same elegance with beautiful italic styles | Italic font lovers, expressive coding |
-| **Claude Dark High Contrast** | Classic | Maximum visibility with vibrant colors | Accessibility, presentations, bright environments |
-| **Claude Dark High Contrast Italic** | ✨ Italic | High contrast with stylish italic elements | Accessibility + italic enthusiasts |
+| **Claude Dark High Contrast** | Classic | Higher-contrast palette with brighter syntax colors | Users who prefer stronger contrast |
+| **Claude Dark High Contrast Italic** | ✨ Italic | Higher-contrast palette with italic styling | Users who prefer stronger contrast and italics |
 
 > 💡 **Pro Tip**: For the best italic experience, use fonts like 'Maple Mono' or 'Victor Mono' with font weight 500!
 
