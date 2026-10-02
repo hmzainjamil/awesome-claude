@@ -15,7 +15,7 @@ Part of [awesomeclaude.ai](https://awesomeclaude.ai)
 
 <br>
 
-<img src="./assets/dark-high-contrast-min.png" alt="Claude Theme Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<img src="../assets/dark-high-contrast-min.png" alt="Claude Theme Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
 <br>
 
@@ -102,15 +102,15 @@ Add to your `settings.json`:
 <tr>
 <td width="50%" align="center">
 <h4>🌃 Claude Dark</h4>
-<a href="./assets/dark-min.png">
-<img src="./assets/dark-min.png" alt="Claude Dark Theme" width="100%" style="border-radius: 8px;">
+<a href="../assets/dark-min.png">
+<img src="../assets/dark-min.png" alt="Claude Dark Theme" width="100%" style="border-radius: 8px;">
 </a>
 <p><em>Elegant dark theme with warm tones</em></p>
 </td>
 <td width="50%" align="center">
 <h4>🔆 High Contrast</h4>
-<a href="./assets/dark-high-contrast-min.png">
-<img src="./assets/dark-high-contrast-min.png" alt="Claude Dark High Contrast" width="100%" style="border-radius: 8px;">
+<a href="../assets/dark-high-contrast-min.png">
+<img src="../assets/dark-high-contrast-min.png" alt="Claude Dark High Contrast" width="100%" style="border-radius: 8px;">
 </a>
 <p><em>Enhanced visibility for accessibility</em></p>
 </td>
@@ -123,16 +123,16 @@ Add to your `settings.json`:
 <tr>
 <td width="50%" align="center">
 <h4>🌃✨ Claude Dark Italic</h4>
-<a href="./assets/dark-italic-min.png">
-<img src="./assets/dark-italic-min.png" alt="Claude Dark Italic Theme" width="100%" style="border-radius: 8px;">
+<a href="../assets/dark-italic-min.png">
+<img src="../assets/dark-italic-min.png" alt="Claude Dark Italic Theme" width="100%" style="border-radius: 8px;">
 </a>
 <p><em>Expressive coding with beautiful italic styles</em></p>
 <p><small>📝 Shown with 'Maple Mono' font weight 500</small></p>
 </td>
 <td width="50%" align="center">
 <h4>🔆✨ High Contrast Italic</h4>
-<a href="./assets/dark-high-contrast-italic-min.png">
-<img src="./assets/dark-high-contrast-italic-min.png" alt="Claude Dark High Contrast Italic" width="100%" style="border-radius: 8px;">
+<a href="../assets/dark-high-contrast-italic-min.png">
+<img src="../assets/dark-high-contrast-italic-min.png" alt="Claude Dark High Contrast Italic" width="100%" style="border-radius: 8px;">
 </a>
 <p><em>Maximum visibility with stylish italic elements</em></p>
 <p><small>📝 Shown with 'Victor Mono' font weight 500</small></p>
